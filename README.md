@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gloria 👋
 
-<!--
-**gloria-johnson/gloria-johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Business Analyst currently building practical skills in data analytics and using data to understand problems, uncover insights, and support better business decisions.
 
-Here are some ideas to get you started:
+## 🌱 What I'm Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data analysis and interpretation
+- Microsoft Excel
+- SQL
+- Power BI
+- Data visualization
+- Business problem-solving
+
+## 📊 My Portfolio
+
+I'm building this portfolio as I progress through my data analytics journey. Projects will be added here as I apply what I'm learning to real-world datasets and business problems.
+## 🎯 My Goal
+
+My goal is to develop strong analytical and business problem-solving skills and build a career in Business Analysis.
+
+## 📫 Connect With Me
+
+- LinkedIn: [Gloria Johnson](https://www.linkedin.com/in/gloria-johnson-730a70269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
